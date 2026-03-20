@@ -1,6 +1,9 @@
 [package]
-name = "logging"
+name = "loggingg"
 version = "0.1.0"
 edition = "2024"
+description = "Logging funcs"
+license = "MIT"
+repository = "https://github.com/NerdNinja420/logging"
 
 [dependencies]
